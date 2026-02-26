@@ -4,8 +4,9 @@ body {
     font-family: Arial, sans-serif;
 }
 img {
-    width: 300px;  
-    height: auto;   
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
 }
 h1 {
     color: #cb030d;
