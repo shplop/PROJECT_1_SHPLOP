@@ -5,6 +5,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
+img {
+    width: 300px;  
+    height: auto;   
+}
 
 h1 {
     color: #cb030d;
