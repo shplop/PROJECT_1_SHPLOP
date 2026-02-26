@@ -1,4 +1,16 @@
-h1 {
-  color: red;
+
+body {
+    background-color: #d3ccb9;
+    color: #52352a;
+    font-family: Arial, sans-serif;
 }
 
+
+h1 {
+    color: #cb030d;
+}
+
+
+h2, h3 {
+    color: #cb030d;
+}
